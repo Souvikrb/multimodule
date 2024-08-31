@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="#">
 
-    <title>Login</title>
+    <title>Login </title>
 
 	<!-- Vendors Style-->
 	<link rel="stylesheet" href="css/vendors_css.css">
@@ -31,7 +31,7 @@
 
 							<div class="content-top-agile pt-4">
 								<img src="images/logo.png" height="100" alt="User Image" class="">
-								<h3>Login</h3>
+								<h3>Login souvik</h3>
 							</div>
 							<div class="p-40">
 								<form action="include/login_chk.php" method="post" id="login">
