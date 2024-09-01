@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +36,7 @@
                 <p>Create an account.</p>
               </div>
               <div class="p-40 pt-0">
-                <form action="action/register.php" method="post" id="register">
+                <form action="route/register.php" method="post" id="register">
                   <div class="row">
                       <div class="form-group col-md-6 col-lg-6">
                         <label class="form-label">Name</label>

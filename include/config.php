@@ -27,4 +27,9 @@ $reg_time = date('Y-m-d H:i:s');
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
+
+
+define('FIRST_LEVEL_REFERRAL_BONUS',100);
+define('SECOND_LEVEL_REFERRAL_BONUS',50);
+define('THIRD_LEVEL_REFERRAL_BONUS',20);
 ?>
